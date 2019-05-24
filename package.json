@@ -1,0 +1,22 @@
+{
+  "name": "azure-devops-test-demo",
+  "version": "1.0.0",
+  "description": "A sample repository to demonstrate the integration with Azure DevOps (especially Azure Pipelines)",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuichielectric/azure-devops-test-demo.git"
+  },
+  "author": "Yuichi Tanaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuichielectric/azure-devops-test-demo/issues"
+  },
+  "homepage": "https://github.com/yuichielectric/azure-devops-test-demo#readme",
+  "devDependencies": {
+    "ava": "^1.4.1"
+  }
+}
